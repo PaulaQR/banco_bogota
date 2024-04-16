@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "monrope", sans-serif;
+  font-size: 100%;
+}
+
+header {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  color: rgb(43, 33, 118);
+  font-size: 3rem;
+}
+header nav {
+  font-size: 1.5rem;
+}
+header ul {
+  display: block;
+  list-style: none;
+}
+header li a {
+  color: rgb(43, 33, 118);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+main img {
+  width: 100%;
+  height: auto;
+}
+main section {
+  padding: 1rem;
+  margin-top: 1rem;
+}
+main section h2 {
+  font-size: 2.5rem;
+  align-items: center;
+  color: rgb(53, 53, 53);
+}
+main section h2 span {
+  background-color: sandybrown;
+  font-size: rem;
+}
+main section p {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  color: rgb(53, 53, 53);
+}
+main button {
+  margin-left: 1rem;
+  background-color: sandybrown;
+  border: none;
+  color: white;
+  padding: 1rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+main button img {
+  width: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
