@@ -9,7 +9,7 @@
 header {
   padding: 1rem;
   margin: 0;
-  color: rgb(53, 53, 53);
+  color: #353535;
   font-size: 3rem;
 }
 header .menu .menu-list {
@@ -50,7 +50,7 @@ main section {
 main section h2 {
   font-size: 2.5rem;
   align-items: center;
-  color: rgb(53, 53, 53);
+  color: #353535;
 }
 main section h2 span {
   background-color: sandybrown;
@@ -59,7 +59,7 @@ main section h2 span {
 main section p {
   margin-top: 1rem;
   font-size: 1.5rem;
-  color: rgb(53, 53, 53);
+  color: #353535;
 }
 main button {
   margin: 1rem;
@@ -74,7 +74,5 @@ main button img {
   width: 1rem;
 }
 main button:hover {
-  background-color: rgb(255, 138, 36);
+  background-color: #ff8a24;
 }
-
-/*# sourceMappingURL=style.css.map */
